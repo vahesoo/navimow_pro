@@ -1,5 +1,17 @@
 # Navimow (Private) — Home Assistant integration
 
+> [!WARNING]
+> **Development fork — not intended for installation**
+>
+> This repository is maintained for development and contributions to
+> **[ilguala/navimow_pro](https://github.com/ilguala/navimow_pro)**.
+> It may be behind upstream and is **not** a separate supported release.
+>
+> **For regular Home Assistant installation and updates, use the
+> [original integration repository](https://github.com/ilguala/navimow_pro).**
+
+---
+
 <p align="center">
   <a href="https://www.paypal.com/donate/?hosted_button_id=M325UXAK93XHL"><img src="https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" /></a>
   <br />
